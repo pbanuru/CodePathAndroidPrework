@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="intro">Hello World, I\'m Pranav and I love sine waves~!</string>
+    <string name="ButtonText">Hello!</string>
+</resources>
