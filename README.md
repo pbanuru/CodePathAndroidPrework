@@ -31,6 +31,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 I struggled to display my image on the main page, due to a bug. I watched a YouTube tutorial and sorted it out.
+I also ran into another bug with running my app. I don't recall the issue.
+
+I took a lot of breaks, and completed this over the span of a week.
 
 ## License
 
